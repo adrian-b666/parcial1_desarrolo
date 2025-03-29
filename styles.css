@@ -17,3 +17,62 @@ button:hover {     background: #0056b3; }
 a {     display: block;     margin-top: 10px;     color: #007bff;     text-decoration: none; }
  
 a:hover {     text-decoration: underline; }
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: rgb(28, 131, 228);
+    color: #ffffff;
+    padding: 1px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+.menu nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu nav ul li {
+    display: inline;
+    margin: 0px;
+    text-emphasis:;
+}
+
+.menu nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+h2 {
+    color: #35424a;
+}
+
+h1 {
+    text-align: center;
+
+}
+p{
+    text-align: center; 
+}
+
+p {
+    color: hsl(0, 1%, 18%);
+}
+
+
+.text-center {
+    text-align: center;
+}
+
